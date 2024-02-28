@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/38911265/201509609-dc62077f-beab-4645-8cbc-8583d2fde1b5.png)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richard Mbugua
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Negash
 ======================================================================================================================================
 
-Software Developer and UX/UI Designer
+Software Engineer
 -------------------------------------
 
-A competent software developer who can translate customer needs into viable technical designs. From conception to distribution, high development quality is maintained. Works with customers and coworkers to generate great end products at all phases of development. I'm adaptable, with great UX designs that work across several platforms. Knowledgeable in user experience design methodologies for software and solutions. Creates effective, user-friendly UX frameworks for audiences ranging from technical newcomers to highly-trained engineers.
+A competent software engineer who can translate customer needs into viable technical designs. From conception to distribution, high development quality is maintained. Works with customers and coworkers to generate great end products at all phases of development. I'm adaptable, with great UX designs that work across several platforms. Knowledgeable in user experience design methodologies for software and solutions. Creates effective, user-friendly UX frameworks for audiences ranging from technical newcomers to highly-trained engineers.
 
 * 🌍  I'm based in Alexandria, VA
 * ✉️  You can contact me at [munirnegash3@gmail.com](mailto:munirnegash3@gmail.com)
